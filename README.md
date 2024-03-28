@@ -12,7 +12,7 @@ To Do:
 
 - [x] 1. Add `Viewport` metatag
 - [x] 2. Center div `hero-content` in `hero` section
-- [ ] 3. Change `Hero` button `:hover` colors.
+- [x] 3. Change `Hero` button `:hover` colors.
 - [ ] 4. Change photo in `About Me` section.
 - [ ] 5. BONUS: Add a `Contact` section.
 
