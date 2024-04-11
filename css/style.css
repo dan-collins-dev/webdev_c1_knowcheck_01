@@ -132,6 +132,7 @@ body {
     display: flex;
     width: 50%;
     justify-content: space-evenly;
+    filter: invert(1);
 }
 
 .footer-container {
